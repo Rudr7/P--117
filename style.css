@@ -1,0 +1,28 @@
+  body {
+   background-color: orange;
+   font-size: 30px;
+  }
+
+  #score {
+    font-size: 35px;
+    margin-left:20px;
+  }
+
+  #timer {
+    font-size: 35px;
+    float:right;
+    margin-right: 20px;
+  }
+
+  #sketch_to_be_drawn{
+    text-align: center;
+    color: steelblue;
+  }
+  #show_sketch{
+    float:right;
+    margin-top: 10px;
+  }
+  h1 {
+    background-color: orangered;
+    line-height: 2;
+  }
